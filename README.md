@@ -1,2 +1,2 @@
-# ProjectDirectory1
-This is projectdirectory1
+# GitAssignment1
+This is gitassignment1
